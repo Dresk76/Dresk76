@@ -41,13 +41,14 @@
     </a>
   </div>
   <br><br>
+  <!-- Contador de visitantes: https://visitorbadge.io -->
   <!-- Insignias sociales: https://shields.io -->
   <div>
     <span>
       <img src="Img/Visitors.png" alt="Visitors" title="Visitors" width="35px"/>
-      <a href="https://github.com/asrvd/visitor-counter-badge" target="_blank">
-      <img src="https://visitor-counter-badge.vercel.app/api/Dresk76/Dresk76?style=for-the-badge&label=VISITANTES&color=D96704&labelColor=FFEDC8" alt="👽 Visitantes" title="👽 Visitantes" width="155px"/>
-    </a>
+      <a href="https://visitorbadge.io" target="_blank">
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDresk76%2FDresk76&label=Visitantes&labelColor=%23ffedc8&countColor=%23591c21&labelStyle=upper" alt="👽 Visitantes" title="👽 Visitantes" width="155px"/>
+      </a>
     </span>
     <br>
     <a href="https://github.com/Dresk76?tab=repositories&sort=stargazers" target="_blank">
