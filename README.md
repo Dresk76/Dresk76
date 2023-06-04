@@ -66,14 +66,14 @@
     </div>
     <br>
     <div>
-      <a href="CV/Currículum Felipe Agudelo Español.pdf" target="_blank">
+      <a href="PDF/CvGameDeveloperSpanish.pdf" target="_blank">
         <img src="Img/Ver-CV-Español.png" alt="🔍 Ver curriculum en Español" title="🔍 Ver curriculum en Español" width="210px">
       </a>
     </div>
     <br>
     <div>
-      <a href="CV/Currículum Felipe Agudelo Ingles.pdf" target="_blank">
-        <img src="Img/View-CV-English.png" alt="🔍 View resume in English" title="🔍 View resume in English" width="210px"/>
+      <a href="PDF/CvGameDeveloperEnglish.pdf" target="_blank">
+        <img src="Img/View-CV-English.png" alt="🔍 View curriculum in English" title="🔍 View curriculum in English" width="210px"/>
       </a>
     </div>
   </div>
