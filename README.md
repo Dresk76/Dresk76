@@ -136,16 +136,16 @@
     <br>
     <div>
       <p>
-        🎮 The Artifact Seeker es un juego de aventuras y exploración 🕯️ diseñado como un portafolio 📜, en el que los jugadores asumen el papel de un mago 🧙🏻 en busca de artefactos mágicos 🔮 en un misterioso castillo 🏰. El juego cuenta con gráficos 2D de estilo retro, que evocan sentimientos de nostalgia para aquellos que crecieron jugando videojuegos 🕹️ en la década de los 90's 🕰️💾. La música de fondo evocadora también ayuda a crear una atmósfera mágica y misteriosa que invita a la exploración 🎶.
+        🎮 The Artifact Seeker un portafolio 📜 deseñado como un videojuego en 2D de aventuras y exploración 🕯️, en el que el jugador asume el papel de un mago 🧙🏻 en busca de artefactos mágicos 🔮 en un misterioso castillo 🏰. El juego cuenta con gráficos 2D de estilo retro, que evocan sentimientos de nostalgia para aquellos que crecieron jugando videojuegos 🕹️ en la década de los 90's 🕰️💾. La música de fondo evocadora también ayuda a crear una atmósfera mágica y misteriosa que invita a la exploración 🎶.
       </p>
       <p>
-        En el juego, el jugador debe interactuar con cuatro objetos diferentes 🛡️ que proporcionan información 📰 sobre el desarrollador en la vida real 🧔, como experiencias y estudios 👨🏼‍🎓. Esto permite una forma creativa de presentar la información personal del desarrollador de manera lúdica e interesante.
+        Dentro del juego, el jugador debe interactuar con cuatro objetos diferentes 🛡️ que proporcionan información 📰 sobre el desarrollador en la vida real 🧔, como experiencias y estudios 👨🏼‍🎓. Esta forma creativa de presentar la información personal del desarrollador agrega un toque lúdico e interesante.
       </p>
       <p>
-        El juego también cuenta con un emocionante enemigo final, un mago oscuro 🧙🏿 que los jugadores podrán derrotar y así completar su misión 🧩. Esta inclusión añade una capa adicional de emoción y tensión al juego 😲, y asegura que los jugadores tengan que superar una gran prueba final 🌌 para completar su aventura 🗝️.
+        El juego también cuenta con un emocionante enemigo final, un mago oscuro 🧙🏿 al cual el jugador podrá derrotar y así completar su misión 🧩. Esta inclusión añade una capa adicional de emoción y tensión al juego 😲, asegurando que los jugadores tengan que superar una gran prueba final 🌌 para completar su aventura 🗝️.
       </p>
       <p>
-        🧐 En general, The Artifact Seeker es una experiencia corta ⏳ pero interesante 🔥, que combina elementos de exploración 🔎, personalización 🎭 y combate ⚔️ en un paquete atractivo y único 👌.
+        🧐 En resumen, The Artifact Seeker es una experiencia corta pero interesante 🔥, combinando elementos de exploración 🔎, personalización 🎭 y combate ⚔️ en un paquete atractivo y único 👌.
       </p>
     </div>
   </section>
