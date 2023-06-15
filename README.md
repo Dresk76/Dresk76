@@ -2,13 +2,13 @@
 <section align="center">
   <!-- Nombre Felipe Agudelo -->
   <div>
-    <a href="https://github.com/Dresk76" target="_blank">
+    <a href="https://www.flowcode.com/page/dresk76" target="_blank">
       <img src="Img/Felipe Agudelo.png" alt="Felipe Agudelo" width="250px"/>
     </a>
   </div>
   <!-- Imagen Dresk76 -->
   <div>
-    <a href="https://github.com/Dresk76" target="_blank">
+    <a href="https://www.flowcode.com/page/dresk76" target="_blank">
       <img src="Img/Dresk76.png" alt="Dresk76" title="👨‍💻 Dresk76" width="210px"/>
     </a>
   </div>
@@ -25,19 +25,19 @@
   <!-- Iconos redes sociales: https://www.flaticon.com/icons -->
   <div>
     <a href="https://www.linkedin.com/in/dresk76/" target="_blank">
-      <img src="Img/linkedin.png" alt="💼 Linkedin" title="💼 Linkedin" width="35px"/>
+      <img src="Img/linkedinMorado.png" alt="💼 Linkedin" title="💼 Linkedin" width="35px"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com/Dresk76" target="_blank">
-      <img src="Img/twitter.png" alt="💬 Twitter" title="💬 Twitter" width="35px"/>
+      <img src="Img/twitterAmarillo.png" alt="💬 Twitter" title="💬 Twitter" width="35px"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/dresk_76/" target="_blank">
-      <img src="Img/instagram.png" alt="📷 Instagram" title="📷 Instagram" width="35px"/>
+      <img src="Img/instagramMorado.png" alt="📷 Instagram" title="📷 Instagram" width="35px"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.twitch.tv/dresk76" target="_blank">
-      <img src="Img/twitch.png" alt="🕹️ Twitch" title="🕹️ Twitch" width="35px"/>
+    <a href="https://dresk76.itch.io/the-artifact-seeker" target="_blank">
+      <img src="Img/itchioAmarillo.png" alt="🕹️ Itch.io" title="🕹️ Itch.io" width="35px"/>
     </a>
   </div>
   <br><br>
@@ -130,8 +130,9 @@
       <img src="Img/The Artifact Seeker.png" alt="The Artifact Seeker" width="280px">
     </div>
     <br>
-    <iframe frameborder="0" src="https://itch.io/embed/2117669?linkback=true&amp;border_width=0&amp;bg_color=222222&amp;fg_color=ffffff&amp;link_color=C1954C&amp;border_color=363636" width="550" height="165"><a href="https://dresk76.itch.io/the-artifact-seeker">The Artifact Seeker by Dresk76</a></iframe>
-    <br>
+    <div>
+      <img src="Gif/Mago.gif" alt="The Artifact Seeker" width="450px">
+    </div>
     <br>
     <div>
       <p>
@@ -146,10 +147,6 @@
       <p>
         🧐 En resumen, The Artifact Seeker es una experiencia corta pero interesante 🔥, combinando elementos de exploración 🔎, personalización 🎭 y combate ⚔️ en un paquete atractivo y único 👌.
       </p>
-    </div>
-    <br>
-    <div>
-      <img src="Gif/Mago.gif" alt="The Artifact Seeker" width="450px">
     </div>
   </section>
 </details>
