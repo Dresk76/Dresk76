@@ -130,9 +130,8 @@
       <img src="Img/The Artifact Seeker.png" alt="The Artifact Seeker" width="280px">
     </div>
     <br>
-    <div>
-      <img src="Gif/Mago.gif" alt="The Artifact Seeker" width="450px">
-    </div>
+    <iframe frameborder="0" src="https://itch.io/embed/2117669?linkback=true&amp;border_width=0&amp;bg_color=222222&amp;fg_color=ffffff&amp;link_color=C1954C&amp;border_color=363636" width="550" height="165"><a href="https://dresk76.itch.io/the-artifact-seeker">The Artifact Seeker by Dresk76</a></iframe>
+    <br>
     <br>
     <div>
       <p>
@@ -147,6 +146,10 @@
       <p>
         🧐 En resumen, The Artifact Seeker es una experiencia corta pero interesante 🔥, combinando elementos de exploración 🔎, personalización 🎭 y combate ⚔️ en un paquete atractivo y único 👌.
       </p>
+    </div>
+    <br>
+    <div>
+      <img src="Gif/Mago.gif" alt="The Artifact Seeker" width="450px">
     </div>
   </section>
 </details>
