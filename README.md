@@ -96,11 +96,11 @@
     <br>
     <div>
       <p>
-        👋🏼 ¡Hola! Me llamo Felipe Agudelo 🧔, un estudiante de ingeniería informática 👨🏼‍🎓 de Colombia. Me especializo en el desarrollo de videojuegos en 2D 🕹️. Creo que los videojuegos son una forma poderosa de contar historias y entretener a las personas.
+        👋🏼 ¡Hola! Me llamo Felipe Agudelo 🧔, un estudiante de ingeniería informática 👨🏼‍🎓 de Colombia. Me especializo en el desarrollo de videojuegos en 2D y 3D 🕹️. Creo que los videojuegos son una forma poderosa de contar historias y entretener a las personas.
         <br><br>
         🕰️ Dedico mi tiempo libre a la exploración y creación de nuevos conceptos y diseños de videojuegos 💻, siempre buscando aprender más y mejorar mis habilidades 🧠 para crear experiencias únicas e inolvidables 🚀.
         <br><br>
-        Como desarrollador de videojuegos en 2D, tengo habilidades sólidas en programación y en la nivelación de iluminación 🔆 y escenarios 🎭, así como en la implementación de efectos de sonido 🎛️ y en la selección de música ambiental 🎵. Me gusta trabajar en equipo 🤝 y colaborar con otros artistas y diseñadores para crear juegos distintivos y atractivos que cautiven al público 🌎.
+        Como desarrollador de videojuegos, tengo habilidades sólidas en programación y en la nivelación de iluminación 🔆 y escenarios 🎭, así como en la implementación de efectos de sonido 🎛️ y en la selección de música ambiental 🎵. Me gusta trabajar en equipo 🤝 y colaborar con otros artistas y diseñadores para crear juegos distintivos y atractivos que cautiven al público 🌎.
         <br><br>
         Además de mi pasión por el desarrollo de videojuegos 👨‍💻, también disfruto de la lectura 📖, ver películas 🎬 y escuchar música 🎧🤘. Estos pasatiempos me ayudan a tener una mente creativa e imaginativa 💡🤯, lo cual se refleja en mi trabajo en el desarrollo de videojuegos. En el futuro, me gustaría seguir creciendo como desarrollador de videojuegos y contribuir a la industria de los videojuegos 🏭🎮 con ideas innovadoras y creativas que marquen la diferencia.
         <br><br>
