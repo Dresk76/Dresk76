@@ -271,15 +271,15 @@
       </div>
     </div>
     <br><br><br>
-    <!-- Github Readme Activity Graph: https://github.com/ashutosh00710/github-readme-activity-graph -->
+    <!-- Github Readme Activity Graph: https://ashutosh00710.github.io/github-readme-activity-graph/ -->
     <div>
       <div>
         <img src="Img/Grafica.png" alt="Gráfica" width="120px">
       </div>
       <br>
       <div>
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=Dresk76&hide_border=true&bg_color=1F222E&color=FB325E&line=F29F05&point=FFFFFF" alt="Dresk76 Activity Graph" title="🚀 Ir a la fuente" width="100%"/>
+        <a href="https://ashutosh00710.github.io/github-readme-activity-graph/" target="_blank">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dresk76&bg_color=1f222e&color=f29f05&line=fb325e&point=ffffff&area=true&hide_border=true" alt="Dresk76 Activity Graph" title="🚀 Ir a la fuente" width="100%"/>
         </a>
       </div>
     </div>
