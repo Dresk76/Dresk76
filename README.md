@@ -72,7 +72,7 @@
     </div>
     <br>
     <div>
-      <a href="PDF/CvGameDeveloperSpanish.pdf" target="_blank">
+      <a href="PDF/CvGameDeveloperEnglish.pdf" target="_blank">
         <img src="Img/View-CV-English.png" alt="🔍 View curriculum in English" title="🔍 View curriculum in English" width="210px"/>
       </a>
     </div>
