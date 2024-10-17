@@ -96,17 +96,15 @@
     <br>
     <div>
       <p>
-        👋🏼 ¡Hola! Me llamo Felipe Agudelo 🧔, un estudiante de ingeniería informática 👨🏼‍🎓 de Colombia. Me especializo en el desarrollo de videojuegos en 2D y 3D 🕹️. Creo que los videojuegos son una forma poderosa de contar historias y entretener a las personas.
+        👋🏼 ¡Hola! soy Felipe Agudelo 🧔, estudiante de ingeniería informática 👨🏼‍🎓 de Colombia, apasionado por la programación de videojuegos en Unity🕹️.
         <br><br>
-        🕰️ Dedico mi tiempo libre a la exploración y creación de nuevos conceptos y diseños de videojuegos 💻, siempre buscando aprender más y mejorar mis habilidades 🧠 para crear experiencias únicas e inolvidables 🚀.
+        🕰️ Parte de mi tiempo libre lo dedico a la exploración nuevos conceptos 💻, siempre buscando aprender más y mejorar mis habilidades 🧠.
         <br><br>
-        Como desarrollador de videojuegos, tengo habilidades sólidas en programación y en la nivelación de iluminación 🔆 y escenarios 🎭, así como en la implementación de efectos de sonido 🎛️ y en la selección de música ambiental 🎵. Me gusta trabajar en equipo 🤝 y colaborar con otros artistas y diseñadores para crear juegos distintivos y atractivos que cautiven al público 🌎.
+        Además de mi pasión por la programación de videojuegos 👨‍💻, también disfruto de la lectura 📖, ver películas 🎬 y escuchar música 🎧🤘.
         <br><br>
-        Además de mi pasión por el desarrollo de videojuegos 👨‍💻, también disfruto de la lectura 📖, ver películas 🎬 y escuchar música 🎧🤘. Estos pasatiempos me ayudan a tener una mente creativa e imaginativa 💡🤯, lo cual se refleja en mi trabajo en el desarrollo de videojuegos. En el futuro, me gustaría seguir creciendo como desarrollador de videojuegos y contribuir a la industria de los videojuegos 🏭🎮 con ideas innovadoras y creativas que marquen la diferencia.
+        He creado un portafolio portafolio 💾💼 que consiste en un videojuego en 2D desarrollado en Unity 🎮, al que he llamado The Artifact Seeker 🧙🏻. Durante todo el proceso de diseño y desarrollo, he enfrentado múltiples desafíos 💪 que me han permitido aprender nuevas habilidades y poner a prueba mi creatividad 🔎🧠. Espero que este proyecto no solo demuestre mis habilidades en la programación y diseño de juegos, sino que también refleje mi pasión y dedicación ❤️‍🔥 en este campo de los videojuegos 🕹️.
         <br><br>
-        He creado un portafolio portafolio 💾💼 que consiste en un videojuego en 2D desarrollado con Unity 🎮, al que he llamado The Artifact Seeker 🧙🏻. Durante todo el proceso de diseño y desarrollo, he enfrentado múltiples desafíos 💪 que me han permitido aprender nuevas habilidades y poner a prueba mi creatividad 🔎🧠. Espero que este proyecto no solo demuestre mis habilidades en la programación y diseño de juegos, sino que también refleje mi pasión y dedicación ❤️‍🔥 en este campo de los videojuegos 🕹️.
-        <br><br>
-        💬 Si deseas contactarme, puedes hacerlo a través de mis redes sociales 📱 o enviándome un correo electrónico.
+        💬 Si deseas contactarme, puedes hacerlo enviándome un correo electrónico.
         <a href="mailto:felipeagudeloolaya@gmail.com">
           felipeagudeloolaya@gmail.com 📫
         </a>
@@ -122,7 +120,7 @@
 <!-- The Artifact Seeker -->
 <details>
   <summary>
-    <h2>🧙🏻 ¡Explora mi portafolio relizado en Unity 2D!</h2>
+    <h2>🧙🏻 ¡Explora mi portafolio relizado en Unity!</h2>
   </summary>
   <section align="center">
     <br>
@@ -203,13 +201,16 @@
         <div>
           <img src="Img/GitHub.png" alt="GitHub" title="🖥️ GitHub" width="40px">
           &#8287;&#8287;
-          <img src="Img/GitHubDesktop.png" alt="GitHub Desktop" title="🖥️ GitHub Desktop" width="40px">
+          <img src="Img/GitLab.png" alt="GitLab" title="🖥️ GitLab" width="40px">
           &#8287;&#8287;
           <img src="Img/GitKraken.png" alt="GitKraken" title="🖥️ GitKraken" width="40px">
           &#8287;&#8287;
           <img src="Img/Git.png" alt="Git" title="🖥️ Git" width="40px">
           &#8287;
           <img src="Img/VisualStudioCode.png" alt="Visual Studio Code" title="🖥️ Visual Studio Code" width="45px">
+          &#8287;
+          <img src="Img/Rider.png" alt="Rider" title="🖥️ Rider" width="45px">
+          &#8287;
           <img src="Img/Unity.png" alt="Unity" title="🖥️ Unity" width="45px">
         </div>
       </div>
