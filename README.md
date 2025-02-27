@@ -47,7 +47,7 @@
     <span>
       <img src="Img/Visitors.png" alt="Visitors" title="Visitors" width="35px"/>
       <a href="https://visitorbadge.io" target="_blank">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDresk76%2FDresk76&label=Visitantes&labelColor=%23ffedc8&countColor=%23591c21&labelStyle=upper" alt="👽 Visitantes" title="👽 Visitantes" width="155px"/>
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDresk76%2FDresk76&label=Visitors&labelColor=%23ffedc8&countColor=%23591c21&labelStyle=upper" alt="👽 Visitantes" title="👽 Visitantes" width="155px"/>
       </a>
     </span>
     <br>
@@ -96,13 +96,11 @@
     <br>
     <div>
       <p>
-        👋🏼 ¡Hola! soy Felipe Agudelo 🧔, estudiante de ingeniería informática 👨🏼‍🎓 de Colombia, apasionado por la programación de videojuegos en Unity🕹️.
+        👋🏼 ¡Hola! Soy Felipe Agudelo 🧔, Programador Junior en Unity con 2 años de experiencia en desarrollo de videojuegos 🎮 y programación con C#. Actualmente, curso mi último semestre de Ingeniería Informática 👨🏼‍🎓 con enfoque en videojuegos y resido en Manizales, Colombia 🇨🇴.
         <br><br>
-        🕰️ Parte de mi tiempo libre lo dedico a la exploración nuevos conceptos 💻, siempre buscando aprender más y mejorar mis habilidades 🧠.
+        🕹️ He trabajado con metodologías ágiles como Scrum 🚀, código limpio y control de versiones (GitHub, GitLab). Me apasiona aprender nuevas herramientas y técnicas para optimizar mi trabajo y mejorar la calidad del código 💻.
         <br><br>
-        Además de mi pasión por la programación de videojuegos 👨‍💻, también disfruto de la lectura 📖, ver películas 🎬 y escuchar música 🎧🤘.
-        <br><br>
-        He creado un portafolio portafolio 💾💼 que consiste en un videojuego en 2D desarrollado en Unity 🎮, al que he llamado The Artifact Seeker 🧙🏻. Durante todo el proceso de diseño y desarrollo, he enfrentado múltiples desafíos 💪 que me han permitido aprender nuevas habilidades y poner a prueba mi creatividad 🔎🧠. Espero que este proyecto no solo demuestre mis habilidades en la programación y diseño de juegos, sino que también refleje mi pasión y dedicación ❤️‍🔥 en este campo de los videojuegos 🕹️.
+        🤝 Soy un colaborador proactivo en equipo, siempre enfocado en aportar ideas 💡 y soluciones para alcanzar objetivos comunes.
         <br><br>
         💬 Si deseas contactarme, puedes hacerlo enviándome un correo electrónico.
         <a href="mailto:felipeagudeloolaya@gmail.com">
@@ -176,9 +174,10 @@
         </div>
         <br>
         <div>
-          <img" src="Img/Bash.png" alt="Bash Script" title="💾 Bash Script" width="40px">
-          <img src="Img/C++.png" alt="C++" title="💾 C++" width="42px">
+          <img src="Img/Bash.png" alt="Bash Script" title="💾 Bash Script" width="45px">
           &#8287;&#8287;
+          <!-- <img src="Img/C++.png" alt="C++" title="💾 C++" width="42px"> -->
+          <!-- &#8287;&#8287; -->
           <img src="Img/Csharp.png" alt="C#" title="💾 C#" width="42px">
           &#8287;&#8287;
           <img src="Img/Html5.png" alt="Html5" title="💾 Html5" width="40px">
